@@ -5,3 +5,7 @@ Practicing Git using this video tutorial: https://www.youtube.com/watch?v=RGOj5y
 ## Subheader
 
 Watch the tutorial on YouTube
+
+## Future Things to Learn
+
+Need to learn about keys at some point, I think, but I'm not going to worry about that for now
